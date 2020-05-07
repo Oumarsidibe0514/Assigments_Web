@@ -1,0 +1,16 @@
+move a repo to the local machine:
+git clone https://github.com/Oumarsidibe0514/portal.git
+
+see changes in the repo:
+git status
+
+stage all changed files
+git add .
+
+makes all staged flies part of branch:
+git comit -m "adds files to branch"
+
+move the changed files to the server:
+git push
+
+
